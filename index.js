@@ -5,7 +5,7 @@ function getProxy(url) {
 const games = {
     sphd: 1,
     spc: 17,
-    spc: 20
+    sp2: 20
 };
 
 
